@@ -1,6 +1,6 @@
 ## test
-om te kijken hoe dit werk
+om te kijken hoe dit *werkt*
 ---
-ben benieuwd
+ben 'benieuwd'
 +++
 test
