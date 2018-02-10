@@ -4,7 +4,7 @@ Wat gaat we doen
 Wanneer gaan we er naartoe  
 Waarom  
 Hoe  
-![Blake](file:///Users/kk/Desktop/WhatsApp%20Image%202016-02-16%20at%2020.29.30.jpeg)
+![Blake](test/WhatsApp Image 2016-02-16 at 20.29.30.jpeg)
 ---
 Waarom
 +++
