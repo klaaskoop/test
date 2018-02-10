@@ -1,16 +1,13 @@
-## Malawi
+# de vervanging van powerpoint  
+
 ---
-Wat gaat we doen  
-Wanneer gaan we er naartoe  
-Waarom  
-Hoe  
-![Blake](test/blake.jpg)
+
+## ik wil je laten zien hoe dit werkt
+  
 ---
-Waarom
+## hoe werkt het  
+* je maakt eerst een tekst  
 +++
-Wanneer
----
-Met wie
----
-Langs welke steden
+* die exporteer je  
 +++
+* vervolgens maakt het programma er een diapresentatie van
