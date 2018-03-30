@@ -7,7 +7,8 @@
 ---
 ## hoe werkt het  
 * je maakt eerst een tekst
-* met eventueel een plaatje ![gedicht](blake.jpg)
+* met eventueel een plaatje 
+![gedicht](blake.jpg)
 +++
 * die exporteer je  
 +++
